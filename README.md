@@ -2,7 +2,7 @@
 
 I build **AI agents (chatbots, voice agents)** and **real-time data platforms** across **Azure, AWS, and Snowflake**.    
 
-[Email](mailto:saiprasanth.grandhisiri@gmail.com) • [LinkedIn](https://linkedin.com/in/prasanth9883) • [GitHub](https://github.com/)  
+[Email](mailto:saiprasanth.grandhisiri@gmail.com) • [LinkedIn](https://linkedin.com/in/prasanth9883)  
 
 ---
 </> Leveling up in binary world to turn ideas into production systems.
@@ -156,4 +156,7 @@ I build **AI agents (chatbots, voice agents)** and **real-time data platforms** 
 ## 📚 Interests  
 
 • Exploring new AI + Cloud patterns  
+• Badminton
+• cricket
+• Movies
 
