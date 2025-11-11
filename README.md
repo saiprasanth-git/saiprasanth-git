@@ -96,7 +96,6 @@ I build **AI agents (chatbots, voice agents)** and **real-time data platforms** 
 🎯 Focus: Low-latency metrics, exactly-once processing, schema evolution  
 🔧 Tech: Kafka | Spark | Snowflake | Python  
 
-[![Repo](https://img.shields.io/badge/📂-Repository-blue)](#)  
 
 
 ---
@@ -107,7 +106,7 @@ I build **AI agents (chatbots, voice agents)** and **real-time data platforms** 
 🎯 Focus: Cost control, columnar pruning, secure data sharing  
 🔧 Tech: Snowflake | dbt | SQL | Python  
 
-[![Repo](https://img.shields.io/badge/📂-Repository-blue)](#)  
+
 
 
 ---
@@ -118,7 +117,7 @@ I build **AI agents (chatbots, voice agents)** and **real-time data platforms** 
 🎯 Focus: Reproducibility, automation, production reliability  
 🔧 Tech: TensorFlow | Python | CI/CD | Feature Store  
 
-[![Repo](https://img.shields.io/badge/📂-Repository-blue)](#)  
+
 
 ---
 
