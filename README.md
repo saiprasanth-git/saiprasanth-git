@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=saiprasanth-git">
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
@@ -22,13 +22,7 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiprasanth-git&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="saiprasanth-git's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=saiprasanth-git&theme=dark&hide_border=true&cache_seconds=86400" alt="saiprasanth-git's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saiprasanth-git&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sai Prasanth Grandhisiri's GitHub Trophies" />
-</p>
+
 
 
 ## 🛠️ Languages & Tools
