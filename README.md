@@ -9,7 +9,7 @@
 
 ## 📌 About Me
 - Building AI agents and designing robust ETL/ELT pipelines in multi-cloud environments.
-- 01001000 01100101 01101100 01101100 01101111  😁
+- 01001000 01100101 01101100 01101100 01101111  
 
 
 ## 🧠 My Focus Areas
