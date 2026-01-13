@@ -1,5 +1,6 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Sai Prasanth Grandhisiri</h1>
-<h3 align="center">Software Engineer</h3>
+
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Saaaaaiiiii</h1>
+
 
 <p align="center">
 
@@ -10,6 +11,29 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" height="180">
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+a+Developer;I+Build+Automations;I+Love+Python+%26+SQL;Welcome+to+my+repo!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <h3> 🚀 Transforming ideas into code. </h3>
+</div>
+
+---
+
+### 👨‍💻 About Me
+I am a developer focused on solving real-world problems through automation and data. I specialize in Python scripting, full-stack tools, and database management.
+
+- 🔭 I’m currently working on a **AG**.
+- 🌱 I’m currently learning **Advanced PL/SQL & AI Integration**.
+- 👯 I’m looking to collaborate on **Open Source Python Tools**.
+- ⚡ Fun fact: I love automating the boring stuff.
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saiprasanth-git/saiprasanth-git/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
