@@ -24,7 +24,7 @@
 ### 👨‍💻 About Me
 I am a developer focused on solving real-world problems through automation and data. I specialize in Python scripting, full-stack tools, and database management.
 
-- 🔭 I’m currently working on a **AG**.
+- 🔭 I’m currently working on a **AGI**.
 - 🌱 I’m currently learning **Advanced PL/SQL & AI Integration**.
 - 👯 I’m looking to collaborate on **Open Source Python Tools**.
 - ⚡ Fun fact: I love automating the boring stuff.
