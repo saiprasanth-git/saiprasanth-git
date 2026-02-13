@@ -20,14 +20,18 @@
 </div>
 
 ---
+## 👨‍💻 About Me
 
-### 👨‍💻 About Me
-I am a developer focused on solving real-world problems through automation and data. I specialize in Python scripting, full-stack tools, and database management.
+Backend developer specializing in **AI agents** and **data automation**:
+- 🤖 Building LLM agents with **LangChain**, **Google ADK**, and **AWS Bedrock**
+- ⚡ FastAPI microservices with RAG, streaming, and async patterns
+- 📊 SQL optimization (PostgreSQL, PL/SQL) + ETL pipelines
+- 🐳 Docker + GitHub Actions CI/CD
 
-- 🔭 I’m currently working on a **AGI**.
-- 🌱 I’m currently learning **Advanced PL/SQL & AI Integration**.
-- 👯 I’m looking to collaborate on **Open Source Python Tools**.
-- ⚡ Fun fact: I love automating the boring stuff.
+**Currently seeking**: Algora bounties, contract work, and full-time AI/backend roles
+
+📍 Houston, TX | 💼 Available for hire
+
 
 ---
 
