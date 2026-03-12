@@ -15,9 +15,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+a+Developer;I+Build+Automations;I+Love+Python+%26+SQL;Welcome+to+my+repo!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <h3> 🚀 Transforming ideas into code. </h3>
-</div>
+
 
 ---
 ## 👨‍💻 About Me
