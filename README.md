@@ -21,14 +21,10 @@
 ## 👨‍💻 About Me
 
 Backend developer specializing in **AI agents** and **data automation**:
-- 🤖 Building LLM agents with **LangChain**, **Google ADK**, and **AWS Bedrock**
+- 🤖 Building LLM agents with **LangGraph**, **Google ADK**, and **AWS Bedrock**
 - ⚡ FastAPI microservices with RAG, streaming, and async patterns
 - 📊 SQL optimization (PostgreSQL, PL/SQL) + ETL pipelines
 - 🐳 Docker + GitHub Actions CI/CD
-
-**Currently seeking**: Algora bounties, contract work, and full-time AI/backend roles
-
-📍 Houston, TX | 💼 Available for hire
 
 
 ---
